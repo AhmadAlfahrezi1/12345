@@ -23,4 +23,4 @@ rootProject.name = "MY TOOLS"
 include(":app")
 include(":app")
 include(":app")
- 
+include(":app")
